@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/bin/
+/seishun_mapping
+/seishun_mapping.txt
+/seishun_uta_nenkan.txt
+/seishun_uta_nenkan_src.txt
+/seishun_uta_nenkan_src2.txt
